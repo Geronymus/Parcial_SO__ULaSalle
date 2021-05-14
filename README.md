@@ -5,6 +5,6 @@ También esta adjuntado el archivo "Filosofos_comensales_sin_semaforos.cpp" para
 # Para correr el programa:
 Se usa cualquier editor de código en el que se tenga instalado C++ con la versión más reciente.
 # Video:
-
+https://youtu.be/6SThfKfqaOo
 # Referencia:
 https://github.com/Miangame/Cena-de-los-filosofos-C/blob/master/filosofos.c
